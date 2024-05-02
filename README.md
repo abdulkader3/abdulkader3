@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkader3&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkader3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulkader3" alt="abdulkader3" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/kader_9595" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/kader_9595?logo=twitter&style=for-the-badge" alt="https://twitter.com/kader_9595" /></a> </p>
+<p align="left"> <a https://twitter.com/Kader_9595/></a> </p>
 
 - 🌱 I’m currently learning **REACT**
 
