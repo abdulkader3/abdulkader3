@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Kader</h1>
-<h3 align="center">A passionate frontend developer from Northeastern (BANGLADESH)</h3>
+<h3 align="center">A passionate frontend developer from Northeast (BANGLADESH)</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkader3&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkader3" /> </p>
