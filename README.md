@@ -6,7 +6,8 @@
 
 <p align="left"> <a https://twitter.com/Kader_9595/></a> </p>
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **NODE.JS**
+- 😎 I’m Already learned  **REACT**
 
 - 📫 How to reach me **abdulkader.wabdeveloper@gmail.com**
 
